@@ -1,6 +1,7 @@
 # Travis CI Demo 🚀
 
 Projet de démonstration pour l'exposé Travis CI.
+Test build
 
 ## Structure
 
